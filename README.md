@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-[![Deploy to Workers](https://github.com/user-attachments/assets/acd67bb6-de46-42ed-9e31-e458583262d6)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/nevikashah/openauth-template/tree/main)
+[![Deploy to Workers](https://github.com/user-attachments/assets/acd67bb6-de46-42ed-9e31-e458583262d6)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/nevikashah/openauth-template)
 
 Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
 
